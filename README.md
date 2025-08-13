@@ -1,7 +1,5 @@
 ##   
-Hi everyone! My name is **Varsha P S** and I’m currently pursuing my **MSc in Econometrics & Financial Technology** at the **Centre for Budget Studies, CUSAT**.  
-I am an **Economics graduate** now specializing in econometrics and financial technology, with a solid foundation in finance, statistics, and quantitative analysis.  
-Analytical and detail-oriented, with hands-on experience in risk management, data analysis, research, basic programming, and presentations.    
+**Hi everyone** My name is **Varsha P S** and I’m currently pursuing my **MSc in Econometrics & Financial Technology** at the **Centre for Budget Studies, CUSAT**.  I am an **Economics graduate** now specializing in econometrics and financial technology, with a foundation in finance, statistics, and quantitative analysis.  Analytical and detail-oriented, with hands-on experience in risk management, data analysis, research, basic programming, and presentations.    
 
 ---
 
