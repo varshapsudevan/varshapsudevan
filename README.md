@@ -14,7 +14,7 @@
 ---
 
 ## 🌐Connect  
-[LinkedIn](https://linkedin.com/in/varsha-ps) | [Email](varshapsudevan07@gmail.com)
+[LinkedIn](http://www.linkedin.com/in/varsha-p-sudevan07) | [Email](varshapsudevan07@gmail.com)
 
 ---
 
