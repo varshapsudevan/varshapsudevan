@@ -7,7 +7,7 @@ My name is **Varsha P S** pursuing **MSc in Econometrics & Financial Technology*
 
 ---
 
-## Skills  
+## 🛠 Skills  
 **-Tools & Software:** Microsoft Excel, EViews, Python, Gretl, Power BI, MS Word, PowerPoint
 
 **-Soft Skills:** Team collaboration, time management, adaptability, analytical thinking
